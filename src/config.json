@@ -1,0 +1,22 @@
+﻿{
+  "db_host": "travel-expenses-mysql",
+  "db_user": "viscan",
+  "db_pass": "workflow1#",
+  "db_port": 3306,
+  "db_database": "viscan",
+  "db_timezone": "+02:00",
+  "secret": "Ihr naht euch wieder, schwankende Gestalten, Die früh sich einst dem trueben Blick gezeigt.",
+  "device": {
+    "unlockTypes": {
+      "all": 0,
+      "frontLaser": 1,
+      "bottomLaser": 2
+    },
+    "unlockActionStates": {
+      "success": 0,
+      "inputError": 1,
+      "internalError": 2
+    }
+  },
+  "auth_payload_req_access_key": "infrastructre_vinnova_user_payload"
+}
